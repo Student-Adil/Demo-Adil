@@ -1,4 +1,4 @@
 # Demo-Adil
 This is my fist git repositary
 <br>
-Author -Adil Ferooz
+Author -Adil Ferooz Malik
